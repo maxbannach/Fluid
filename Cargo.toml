@@ -1,0 +1,12 @@
+[package]
+name = "fluid"
+version = "0.1.0"
+authors = ["bannach <bannach@tcs.uni-luebeck.de>", "Martin Schuster <schuster@mrstec.de>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+union-find = "*"
+rand = "*"
+signal-hook = "*"
