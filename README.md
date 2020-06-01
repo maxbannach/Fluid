@@ -1,4 +1,7 @@
 # Fluid
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3871709.svg)](https://doi.org/10.5281/zenodo.3871709)
+
 This program implements a heuristic to find a shallow tree *T* for a given connected graph *G* such that *G* is contained in the closure of *T,* that is, a [treedepth decomposition](https://en.wikipedia.org/wiki/Tree-depth) of *G.*
 
 The tool was developed by *Max Bannach, Sebastian Berndt, Martin Schuster* and *Marcel Wienöbst* as submission for the  heuristic track of [PACE 2020](https://pacechallenge.org/2020/). As such, the input format and I/O behavior is as specified by the PACE.
